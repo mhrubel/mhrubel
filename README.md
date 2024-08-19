@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a seasoned Full-Stack WordPress Developer wit
 
 ## 🌟 Latest Projects
 
-- **[Essential WP Tools]([https://vetsafecare.com](https://wordpress.org/plugins/essential-wp-tools/))**: All-in-one solution for customizing WordPress core features, optimizing performance, securing websites, improving SEO, and enhancing any WordPress website.
+- **[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)**: All-in-one solution for customizing WordPress core features, optimizing performance, securing websites, improving SEO, and enhancing any WordPress website.
 - **[EWPT Modules](https://github.com/RactStudio/ewpt-modules/)**: All available Essential WP Tools (EWPT) modules (5 Ready to use modules, each similar to an individual WordPress plugin).
 
 ## 🌱 Currently Learning

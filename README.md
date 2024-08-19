@@ -38,6 +38,6 @@ Feel free to reach out for collaboration or opportunities:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrubel&layout=compact" />
 
 
-<img align="center" src="https://komarev.com/ghpvc/?username=mhrubel&style=for-the-badge" alt="Profile Views Counter"> (Since Aug 8, 2024)
+<img align="center" src="https://komarev.com/ghpvc/?username=mhrubel&style=for-the-badge" alt="Profile Views Counter"> (Since Aug 19, 2024)
 
 ![](https://hit.yhype.me/github/profile?user_id=mhrubel)

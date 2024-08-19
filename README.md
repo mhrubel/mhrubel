@@ -1,6 +1,6 @@
-# 👋 Hi there! This is Mahamudul Hasan Rubel (@mhrubel) ツ
+# 👋 Hi there! This is Mahamudul Hasan Rubel ツ
 
-**Full-Stack Wordpress Developer | DevOps | Linux System Adminr**
+**Full-Stack WordPress Developer | DevOps | Linux System Admin**
 
 Welcome to my GitHub profile! I am a seasoned Full-Stack WordPress Developer with over 13 years of experience in web development, specializing in creating robust, scalable, and high-performing WordPress solutions. I have spearheaded numerous projects, developed custom themes and plugins, and managed complex server infrastructures.
 

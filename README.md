@@ -34,6 +34,10 @@ Feel free to reach out for collaboration or opportunities:
 
 ⚡ I got some stats :)
 
+<!--
+[![mhrubel's profile on stardev.io](https://stardev.io/developers/mhrubel/badge/languages/country.svg)](https://stardev.io/developers/mhrubel)
+-->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhrubel&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrubel&layout=compact" />
 

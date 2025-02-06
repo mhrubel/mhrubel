@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I am a seasoned Full-Stack WordPress Developer wit
 
 ## 🌟 Latest Projects
 
+- **[ReviewX](https://wordpress.org/plugins/reviewx/)**: WooCommerce Reviews Plugin with Multicriteria Support. Increase revenue with multi-criteria reviews that build trust, drive sales, and grow your brand with bespoke social proof. The Woocommerce Reviews Plugin ensures better social proof.
 - **[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)**: All-in-one solution for customizing WordPress core features, optimizing performance, securing websites, improving SEO, and enhancing any WordPress website.
 - **[EWPT Modules](https://github.com/RactStudio/ewpt-modules/)**: All available Essential WP Tools (EWPT) modules (5 Ready to use modules, each similar to an individual WordPress plugin).
 

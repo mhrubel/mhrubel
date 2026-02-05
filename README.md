@@ -20,9 +20,32 @@ Welcome to my GitHub profile! I am a seasoned Full-Stack WordPress Developer wit
 - **[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)**: All-in-one solution for customizing WordPress core features, optimizing performance, securing websites, improving SEO, and enhancing any WordPress website.
 - **[EWPT Modules](https://github.com/RactStudio/ewpt-modules/)**: All available Essential WP Tools (EWPT) modules (5 Ready to use modules, each similar to an individual WordPress plugin).
 
+## ⚡ Tech Stack
+
+Leveraging cutting-edge technologies to deliver robust, scalable, and future-proof solutions
+
+### Frontend
+
+- **Next.js, React, Vue.js, Flutter, React Native, Bootstrap, Tailwind CSS, Figma, Tauri, Electron, JavaScript, TypeScript**
+
+### Backend
+
+- **Laravel, NestJS, Node.js, Express.js, Django, Bun, PHP, Python, Go, C#, C++, Rust**
+
+### Data & APIs
+
+- **PostgreSQL, MySQL, MongoDB, Redis, MariaDB, SQLite, Firebase, Supabase, Prisma, GraphQL, SQL**
+
+### Cloud & DevOps
+
+- **AWS, Google Cloud, DigitalOcean, Vercel, Cloudflare, Docker, Kubernetes, Nginx, Linux, GitHub, CI/CD**
+
+### AI & Platforms
+
+- **OpenAI, Gemini, LLM, Shopify, WordPress**
+
 ## 🌱 Currently Learning
 
-- Laravel, vue.js, next.js, nuxt.js, react.js, node.js, babble, webpack, gulp, axios
 - Artificial Intelligence and Machine Learning (AI/ML)
 - Continuously improving existing skills
 

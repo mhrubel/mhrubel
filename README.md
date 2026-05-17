@@ -4,15 +4,6 @@
 
 Welcome to my GitHub profile! I am a seasoned Full-Stack Laravel, WordPress, React, Mobile app, and Desktop software Developer with over 13 years of experience in web development, specializing in creating robust, scalable, and high-performing WordPress solutions. I have spearheaded numerous projects, developed custom themes and plugins, and managed complex server infrastructures.
 
-<!--
-## 🛠️ Technologies & Skills
-
-- **Languages**: JavaScript/TypeScript, Python, PHP, Node.js, SQL (MySQL/PostgreSQL/NoSQL), Dart, HTML/CSS/SCSS
-- **Frameworks/Libraries**: Laravel, VueJS, NuxtJS, ReactJS, NextJS, Flutter, Tailwind CSS, Bootstrap CSS
-- **Containers & Cloud**: Docker, Linux Servers, GitHub Actions, Git, GitOps, DevOps & CI/CD
-- **Problem-Solving**: Over 130+ solutions on LeetCode showcasing my ability to tackle complex challenges creatively and efficiently
--->
-
 ## 🌟 Latest Projects
 
 - **[Plugin Frame](https://github.com/RactStudio/plugin-frame)**: Plugin Frame: A modern WordPress plugin development framework with Composer, npm, Tailwind, Twig, and Laravel-like structure. Ideal for lightweight or complex plugins. Complies with WP & PSR-4 standards. Modular, scalable, and dev-friendly.
@@ -49,6 +40,17 @@ Leveraging cutting-edge technologies to deliver robust, scalable, and future-pro
 - Artificial Intelligence and Machine Learning (AI/ML)
 - Continuously improving existing skills
 
+## 📊 GitHub Stats:
+<p align="center">
+<a href="https://github.com/Noman73">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhrubel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhrubel&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mhrubel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ## 📫 Contact Me
 
 Feel free to reach out for collaboration or opportunities:
@@ -56,16 +58,6 @@ Feel free to reach out for collaboration or opportunities:
 - [X/Twitter](https://x.com/bd_mhrubel)
 - [Website](https://mhr.ractstudio.com)
 - [Email](mailto:bd.mhrubel@gmail.com)
-
-⚡ I got some stats :)
-
-<!--
-[![mhrubel's profile on stardev.io](https://stardev.io/developers/mhrubel/badge/languages/country.svg)](https://stardev.io/developers/mhrubel)
--->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhrubel&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrubel&layout=compact" />
-
 
 <img align="center" src="https://komarev.com/ghpvc/?username=mhrubel&style=for-the-badge" alt="Profile Views Counter"> (Since Aug 19, 2024)
 

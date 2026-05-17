@@ -42,7 +42,7 @@ Leveraging cutting-edge technologies to deliver robust, scalable, and future-pro
 
 ## 📊 GitHub Stats:
 <p align="center">
-<a href="https://github.com/Noman73">
+<a href="https://github.com/mhrubel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhrubel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhrubel&layout=compact&langs_count=8&theme=gotham"/>
 </a>

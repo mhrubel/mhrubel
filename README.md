@@ -48,15 +48,17 @@ Leveraging cutting-edge technologies to deliver robust, scalable, and future-pro
 </a>
 </p>
 
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhrubel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+-->
 
 ## 📫 Contact Me
 
 Feel free to reach out for collaboration or opportunities:
 - [LinkedIn](https://www.linkedin.com/in/mhrubel)
 - [X/Twitter](https://x.com/bd_mhrubel)
-- [Website](https://mhr.ractstudio.com)
+- [Website](https://rubel.dev)
 - [Email](mailto:bd.mhrubel@gmail.com)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=mhrubel&style=for-the-badge" alt="Profile Views Counter"> (Since Aug 19, 2024)

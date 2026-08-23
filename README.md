@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | WordPress | Laravel | Node.js | Team Leader | DevOps | Linux**
 
-Welcome to my GitHub profile! I am a seasoned Full-Stack Laravel, WordPress, React, Mobile app, and Desktop software Developer with over 13 years of experience in web development, specializing in creating robust, scalable, and high-performing WordPress solutions. I have spearheaded numerous projects, developed custom themes and plugins, and managed complex server infrastructures.
+Welcome to my GitHub profile! I am a seasoned Full-Stack Laravel, WordPress, React, Node.js, Mobile app, and Desktop software Developer with over 14 years of experience in web development, specializing in creating robust, scalable, and high-performing WordPress solutions. I have spearheaded numerous projects, developed custom themes and plugins, and managed complex server infrastructures.
 
 ## 🌟 Latest Projects
 
